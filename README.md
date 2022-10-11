@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Howard Sun
+## 👋 Hi, I’m Howard Sun
 - 😄 Pronouns: he/his/him
 - 📖 Knows Java, C++, HTML, CSS, JavaScript, R
 - 👀 I’m interested in art(all kinds!!)
