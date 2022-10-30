@@ -2,7 +2,6 @@
 - 😄 Pronouns: he/his/him
 - 📖 Knows Java, C++, HTML, CSS, JavaScript, R
 - 👀 I’m interested in art(all kinds!!)
-- 🌱 I’m currently learning Algorithms and Data Structures, React, and Node
 - 💞️ I'm open to collaborate on any fun ideas that you'd like to share with me
 - 📫 Reach me at sunjiahao1126@gmail.com
 
